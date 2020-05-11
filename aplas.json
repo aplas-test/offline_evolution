@@ -9,14 +9,13 @@
       "description": "Balanced cohesive superstructure",
       "categoryId": "accounting",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "161",
       "vendor_phone": "+27 824 258 4430",
       "status_color": "#00FF00",
       "department": "Business Development",
       "hostedtype": "OnPremise",
       "deployment_date": "28/10/08",
-      "investment_number": "204",
+      "investment_number": 204,
       "type": "InHouseDev",
       "sme_email": "Garey.Atterley@memento.net.au",
       "investment_24m": "422",
@@ -25,11 +24,11 @@
       "support_cost": "57",
       "vendor_contact_name": "Simonne Joskovitch",
       "end_of_life": "14/8/18",
-      "months_to_renew_support": "7",
+      "months_to_renew_support": 7,
       "end_of_maintenance": "28/9/17",
       "integrations": [
         {
-          "assetId": "int-357",
+          "id": "int-357",
           "name": "INT-357",
           "shortName": null,
           "version": "2.1",
@@ -37,7 +36,6 @@
           "payload": "Sales - Product Profile",
           "targetApplicationId": "cookley",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -50,7 +48,7 @@
           "golive_date": "26/1/05"
         },
         {
-          "assetId": "int-028",
+          "id": "int-028",
           "name": "INT-028",
           "shortName": null,
           "version": "6.06",
@@ -58,7 +56,6 @@
           "payload": "ASN Verify Transactional Data",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#0000FF",
           "department": "Integration",
@@ -71,7 +68,7 @@
           "golive_date": "21/5/02"
         },
         {
-          "assetId": "int-359",
+          "id": "int-359",
           "name": "INT-359",
           "shortName": null,
           "version": "6.9",
@@ -79,7 +76,6 @@
           "payload": "order quantities",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "1/6/09"
         },
         {
-          "assetId": "int-400",
+          "id": "int-400",
           "name": "INT-400",
           "shortName": null,
           "version": "4.69",
@@ -100,7 +96,6 @@
           "payload": "Item Master Data",
           "targetApplicationId": "cookley",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "status_color": "#00FF00",
           "department": "System Control",
